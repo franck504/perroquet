@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "98413092502",
+    "project_id": "perroquet-4b856",
+    "storage_bucket": "perroquet-4b856.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:98413092502:android:f069efad14bb69062fecb7",
+        "android_client_info": {
+          "package_name": "com.techcare.perroquet"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBxalpAFrvDkwteRrRWwc14hhzkc3dsdHY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
